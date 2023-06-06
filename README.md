@@ -1,6 +1,6 @@
 ## Hi, I'm Maritana👋
 
-I'm a fullstack developer, currently working as an intern and a monitor in a fullstack development class, while also pursuing my studies in the Analysis and Systems Development course.
+I'm a fullstack developer, currently working as an intern and as class monitor in a technology school, while also pursuing my studies in the Analysis and Systems Development course.
 
 ### Some things about me
 
